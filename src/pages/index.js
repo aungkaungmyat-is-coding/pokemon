@@ -1,0 +1,5 @@
+export { default as About } from "./about/About"
+export { default as Compare } from "./compare/Compare"
+export { default as MyList } from "./my-lists/MyList"
+export { default as Pokemon } from "./pokemon/Pokemon"
+export { default as Search } from "./search/Search"
